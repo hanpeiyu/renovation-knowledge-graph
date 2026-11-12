@@ -1,0 +1,24 @@
+schema_version: "0.1.0"
+relations:
+  - {id: has_part, label: 包含部件, direction: directed}
+  - {id: composed_of, label: 由材料或成分组成, direction: directed}
+  - {id: made_of, label: 使用材料, direction: directed}
+  - {id: uses_process, label: 采用工艺, direction: directed}
+  - {id: has_step, label: 包含工序, direction: directed}
+  - {id: precedes, label: 先于某工序, direction: directed}
+  - {id: configures, label: 配置某工艺, direction: directed}
+  - {id: requires_activity, label: 需要工作活动, direction: directed}
+  - {id: requires_object, label: 需要实物对象, direction: directed}
+  - {id: delivers, label: 形成交付成果, direction: directed}
+  - {id: packages, label: 商业包包含交付项, direction: directed}
+  - {id: affects, label: 可能影响, direction: directed}
+  - {id: has_risk, label: 存在风险, direction: directed}
+  - {id: evaluated_by, label: 由方法检验, direction: directed}
+  - {id: suitable_for, label: 适用于场景, direction: directed}
+  - {id: alternative_to, label: 可替代方案, direction: directed}
+  - {id: supports, label: 支持论点, direction: directed}
+  - {id: refutes, label: 反驳论点, direction: directed}
+  - {id: qualifies, label: 限定结论, direction: directed}
+  - {id: depends_on, label: 依赖前提, direction: directed}
+  - {id: cost_of, label: 成本对应对象或活动, direction: directed}
+  - {id: compared_with, label: 与方案比较, direction: directed}

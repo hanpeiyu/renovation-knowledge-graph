@@ -1,0 +1,23 @@
+schema_version: "0.1.0"
+types:
+  - {id: physical_object, label: 实物对象}
+  - {id: material, label: 材料}
+  - {id: construction, label: 结构与构造}
+  - {id: process, label: 工艺}
+  - {id: process_step, label: 工序}
+  - {id: process_configuration, label: 工艺配置}
+  - {id: requirement, label: 功能与需求}
+  - {id: performance_metric, label: 性能与参数}
+  - {id: failure_mode, label: 缺陷与失效}
+  - {id: test_method, label: 检测与评价方法}
+  - {id: standard, label: 标准与规范}
+  - {id: claim, label: 论点}
+  - {id: evidence, label: 证据}
+  - {id: context, label: 场景与条件}
+  - {id: activity, label: 工作活动与专业服务}
+  - {id: deliverable, label: 交付成果}
+  - {id: offering, label: 商业交付项与服务包}
+  - {id: cost_record, label: 成本与价格记录}
+  - {id: case_study, label: 案例}
+  - {id: solution, label: 方案}
+  - {id: decision, label: 决策与比较}

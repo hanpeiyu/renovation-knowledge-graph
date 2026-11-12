@@ -1,0 +1,19 @@
+# Licensing notice
+
+Copyright (c) 2026 hanpeiyu and respective contributors.
+
+Unless explicitly noted otherwise, original prose, original knowledge cards, original diagrams and documentation of this repository are offered under:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Reuse under CC BY 4.0 requires appropriate attribution, a link to the license, and an indication of modifications, to the extent the license applies. Creative Commons allows attribution in a reasonable manner appropriate to the medium; a preferred prominent source line is a project convention, not an additional restriction on CC BY 4.0 rights.
+
+Software code in scripts/ and .github/workflows/ is licensed under the MIT License in LICENSE-CODE.
+
+Third-party source documents, photos, quotations, external standards, external reports and materials not owned by this project are NOT relicensed by inclusion or citation. Their original licenses and applicable law control.
+
+Facts, methods and ideas may not independently qualify for copyright protection. This notice does not override statutory exceptions or public-domain rights.
+
+See docs/licensing-and-attribution.md for citation recommendations and contributor guidance.

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "引用本项目的原创文档或知识卡片时，请给出署名、具体页面链接、许可信息并说明修改情况。"
+title: "装修工程知识图谱 / Renovation Knowledge Graph"
+type: dataset
+authors:
+  - name: "hanpeiyu"
+repository-code: "https://github.com/hanpeiyu/renovation-knowledge-graph"
+url: "https://github.com/hanpeiyu/renovation-knowledge-graph"
+license: "CC-BY-4.0"
+date-released: 2026-11-12
+version: "0.1.0"
